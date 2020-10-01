@@ -128,7 +128,6 @@ const App = () => {
             <Table countries={tableData} />
             <h3>Worldwide new {casesType}</h3>
             <LineGraph casesType={casesType} />
-            <h3>Code on Github:Psyhic</h3>
             <h3>Made By Sahil Kumar</h3>
           </div>
         </CardContent>
